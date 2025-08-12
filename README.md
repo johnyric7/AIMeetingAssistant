@@ -20,7 +20,7 @@ This project is a minimal AI-powered meeting assistant backend built with FastAP
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/yourusername/ai-meeting-assistant.git
+git clone https://github.com/johnyric7/AIMeetingAssistant.git
 cd ai-meeting-assistant
 ```
 
